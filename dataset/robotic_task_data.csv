@@ -1,0 +1,101 @@
+Record_ID,Operator_ID,Task_Type,Collection_Date,Video_Quality,Annotation_Status,Trajectory_Status,Final_Status
+R043,OP03,Pick and Place,2026-10-24,Good,Correct,Complete,Accepted
+R045,OP01,Pick and Place,2026-10-21,Good,Correct,Complete,Accepted
+R040,OP04,Pick and Place,2026-10-16,Good,Correct,Complete,Accepted
+R096,OP04,Object Sorting,2026-10-07,Good,Correct,Complete,Accepted
+R007,OP03,Box Moving,2026-10-03,Good,Correct,Complete,Accepted
+R019,OP03,Object Sorting,2026-10-10,Good,Correct,Incomplete,Rejected
+R057,OP01,Box Moving,2026-10-03,Good,Correct,Complete,Accepted
+R067,OP03,Box Moving,2026-10-13,Poor,Correct,Complete,Rejected
+R087,OP03,Box Moving,2026-10-08,Good,Correct,Complete,Accepted
+R029,OP01,Object Sorting,2026-10-20,Good,Correct,Incomplete,Rejected
+R018,OP02,Pick and Place,2026-10-24,Good,Incorrect,Complete,Rejected
+R054,OP02,Object Sorting,2026-10-20,Good,Correct,Complete,Accepted
+R052,OP04,Box Moving,2026-10-23,Good,Correct,Complete,Accepted
+R042,OP02,Box Moving,2026-10-13,Good,Correct,Complete,Accepted
+R030,OP02,Pick and Place,2026-10-06,Good,Correct,Complete,Accepted
+R051,OP03,Object Sorting,2026-10-12,Good,Incorrect,Complete,Rejected
+R058,OP02,Pick and Place,2026-10-14,Good,Correct,Complete,Accepted
+R047,OP03,Box Moving,2026-10-18,Good,Correct,Complete,Accepted
+R003,OP03,Pick and Place,2026-10-09,Good,Correct,Incomplete,Rejected
+R027,OP03,Box Moving,2026-10-23,Good,Correct,Incomplete,Rejected
+R053,OP01,Pick and Place,2026-10-09,Good,Correct,Complete,Accepted
+R091,OP03,Object Sorting,2026-10-02,Good,Correct,Incomplete,Rejected
+R025,OP01,Pick and Place,2026-10-01,Poor,Correct,Complete,Rejected
+R079,OP03,Object Sorting,2026-10-20,Good,Incorrect,Complete,Rejected
+R080,OP04,Pick and Place,2026-10-06,Good,Incorrect,Complete,Rejected
+R012,OP04,Box Moving,2026-10-08,Good,Correct,Complete,Accepted
+R078,OP02,Pick and Place,2026-10-09,Good,Correct,Complete,Accepted
+R022,OP02,Box Moving,2026-10-18,Good,Correct,Complete,Accepted
+R098,OP02,Pick and Place,2026-10-04,Good,Correct,Complete,Accepted
+R010,OP02,Pick and Place,2026-10-11,Poor,Correct,Complete,Rejected
+R072,OP04,Box Moving,2026-10-18,Poor,Correct,Complete,Rejected
+R013,OP01,Pick and Place,2026-10-19,Good,Correct,Complete,Accepted
+R070,OP02,Pick and Place,2026-10-21,Good,Correct,Complete,Accepted
+R028,OP04,Pick and Place,2026-10-09,Good,Correct,Complete,Accepted
+R076,OP04,Object Sorting,2026-10-12,Good,Incorrect,Complete,Rejected
+R017,OP01,Box Moving,2026-10-13,Good,Correct,Complete,Accepted
+R011,OP03,Object Sorting,2026-10-22,Poor,Correct,Complete,Rejected
+R036,OP04,Object Sorting,2026-10-22,Good,Correct,Complete,Accepted
+R031,OP03,Object Sorting,2026-10-17,Good,Correct,Complete,Accepted
+R041,OP01,Object Sorting,2026-10-02,Good,Correct,Complete,Accepted
+R093,OP01,Pick and Place,2026-10-24,Good,Correct,Complete,Accepted
+R063,OP03,Pick and Place,2026-10-19,Good,Correct,Complete,Accepted
+R005,OP01,Pick and Place,2026-10-06,Good,Correct,Complete,Accepted
+R095,OP03,Pick and Place,2026-10-21,Good,Correct,Complete,Accepted
+R046,OP02,Object Sorting,2026-10-07,Good,Correct,Complete,Accepted
+R006,OP02,Object Sorting,2026-10-17,Good,Correct,Complete,Accepted
+R037,OP01,Box Moving,2026-10-08,Good,Incorrect,Complete,Rejected
+R061,OP01,Object Sorting,2026-10-22,Good,Correct,Complete,Accepted
+R004,OP04,Object Sorting,2026-10-20,Good,Correct,Complete,Accepted
+R016,OP04,Object Sorting,2026-10-02,Good,Correct,Complete,Accepted
+R066,OP02,Object Sorting,2026-10-02,Good,Correct,Complete,Accepted
+R024,OP04,Object Sorting,2026-10-15,Poor,Correct,Complete,Rejected
+R008,OP04,Pick and Place,2026-10-14,Good,Correct,Complete,Accepted
+R085,OP01,Pick and Place,2026-10-11,Good,Correct,Incomplete,Rejected
+R032,OP04,Box Moving,2026-10-03,Good,Correct,Complete,Accepted
+R064,OP04,Object Sorting,2026-10-05,Good,Correct,Complete,Accepted
+R083,OP03,Pick and Place,2026-10-14,Good,Correct,Complete,Accepted
+R075,OP03,Pick and Place,2026-10-01,Good,Correct,Complete,Accepted
+R074,OP02,Object Sorting,2026-10-15,Poor,Correct,Complete,Rejected
+R089,OP01,Object Sorting,2026-10-05,Good,Correct,Complete,Accepted
+R092,OP04,Box Moving,2026-10-13,Good,Correct,Complete,Accepted
+R062,OP02,Box Moving,2026-10-08,Good,Correct,Complete,Accepted
+R082,OP02,Box Moving,2026-10-03,Good,Correct,Complete,Accepted
+R090,OP02,Pick and Place,2026-10-16,Good,Correct,Complete,Accepted
+R048,OP04,Pick and Place,2026-10-04,Good,Correct,Complete,Accepted
+R099,OP03,Object Sorting,2026-10-15,Good,Correct,Complete,Accepted
+R026,OP02,Object Sorting,2026-10-12,Good,Correct,Complete,Accepted
+R086,OP02,Object Sorting,2026-10-22,Good,Correct,Complete,Accepted
+R039,OP03,Object Sorting,2026-10-05,Good,Incorrect,Complete,Rejected
+R014,OP02,Object Sorting,2026-10-05,Good,Correct,Complete,Accepted
+R073,OP01,Pick and Place,2026-10-04,Good,Correct,Complete,Accepted
+R023,OP03,Pick and Place,2026-10-04,Good,Correct,Complete,Accepted
+R065,OP01,Pick and Place,2026-10-16,Poor,Correct,Complete,Rejected
+R034,OP02,Object Sorting,2026-10-25,Good,Correct,Complete,Accepted
+R001,OP01,Object Sorting,2026-10-12,Good,Correct,Complete,Accepted
+R059,OP03,Object Sorting,2026-10-25,Good,Correct,Complete,Accepted
+R097,OP01,Box Moving,2026-10-18,Good,Incorrect,Complete,Rejected
+R056,OP04,Object Sorting,2026-10-17,Good,Correct,Complete,Accepted
+R038,OP02,Pick and Place,2026-10-19,Good,Correct,Complete,Accepted
+R084,OP04,Object Sorting,2026-10-25,Good,Incorrect,Complete,Rejected
+R044,OP04,Object Sorting,2026-10-10,Good,Correct,Complete,Accepted
+R035,OP03,Pick and Place,2026-10-11,Poor,Correct,Complete,Rejected
+R069,OP01,Object Sorting,2026-10-10,Good,Correct,Incomplete,Rejected
+R100,OP04,Pick and Place,2026-10-01,Poor,Correct,Complete,Rejected
+R002,OP02,Box Moving,2026-10-23,Good,Correct,Complete,Accepted
+R071,OP03,Object Sorting,2026-10-07,Good,Correct,Complete,Accepted
+R033,OP01,Pick and Place,2026-10-14,Good,Correct,Complete,Accepted
+R068,OP04,Pick and Place,2026-10-24,Good,Correct,Complete,Accepted
+R060,OP04,Pick and Place,2026-10-11,Good,Correct,Complete,Accepted
+R094,OP02,Object Sorting,2026-10-10,Good,Correct,Complete,Accepted
+R049,OP01,Object Sorting,2026-10-15,Good,Correct,Complete,Accepted
+R050,OP02,Pick and Place,2026-10-01,Good,Correct,Complete,Accepted
+R009,OP01,Object Sorting,2026-10-25,Good,Correct,Complete,Accepted
+R077,OP01,Box Moving,2026-10-23,Good,Correct,Complete,Accepted
+R055,OP03,Pick and Place,2026-10-06,Good,Correct,Complete,Accepted
+R088,OP04,Pick and Place,2026-10-19,Poor,Correct,Complete,Rejected
+R021,OP01,Object Sorting,2026-10-07,Good,Correct,Complete,Accepted
+R081,OP01,Object Sorting,2026-10-17,Good,Correct,Complete,Accepted
+R020,OP04,Pick and Place,2026-10-21,Good,Correct,Complete,Accepted
+R015,OP03,Pick and Place,2026-10-16,Poor,Correct,Complete,Rejected
